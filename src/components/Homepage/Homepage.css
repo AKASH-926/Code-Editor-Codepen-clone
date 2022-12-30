@@ -1,0 +1,14 @@
+.editor-app-container{
+    display: flex;
+        justify-content: space-around;
+        background-color: grey;
+        
+}
+.output{
+    background-color: rgb(255, 255, 255);
+    height: 45vh;
+    padding: 1rem;
+}
+.output>iframe{
+    font-size: x-large
+}
